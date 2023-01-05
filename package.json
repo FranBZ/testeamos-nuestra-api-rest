@@ -1,0 +1,26 @@
+{
+  "name": "testeamos-nuestra-api-rest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "axios": "node axios.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranBZ/testeamos-nuestra-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranBZ/testeamos-nuestra-api-rest/issues"
+  },
+  "homepage": "https://github.com/FranBZ/testeamos-nuestra-api-rest#readme",
+  "devDependencies": {
+    "axios": "^1.2.2",
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}

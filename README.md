@@ -21,7 +21,7 @@ de productos son las apropiadas. Generar un reporte con los resultados obtenidos
 
 ## Como ejecutar el proyecto
 
-- Primero debarás clonar y correr el siguiente proyecto (Proyecto-Final)[https://github.com/FranBZ/proyecto-final-3er-entrega.git]
+- Primero debarás clonar y correr el siguiente proyecto [Proyecto-Final](https://github.com/FranBZ/proyecto-final-3er-entrega.git)
 - Una vez tengas corriendo el proyeco anterior deberas clonar este reopsitorio, dirigirte a la carpeta donde se encuentra.
 - Es importante que antes de ejecutar el proyecto leas los comentarios del archivo ``` axios.js ``` ubicado en la raiz, 
 y ``` supertes.test.js ``` ubicado en la carpeta ```  test ```.

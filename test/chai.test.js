@@ -10,7 +10,7 @@ const {
 
 describe('Ecommerce - Prueba Chai', function () {
 
-  describe('Suit Producto - axios.js', function () {
+  describe('Suit Producto - Chai - axios.js', function () {
 
     it('CONSULTAR TODOS LOS PRODUCTOS - contiene status 200 y y un array', async function () {
       const { status, data } = await getProductos()
